@@ -1,4 +1,4 @@
-#this is for the PR chapter
+#this is for the PR
 
 # learn-cicd-starter (Notely)
 
